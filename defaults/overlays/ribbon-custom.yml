@@ -1,0 +1,15 @@
+##############################################################################
+#                               Ribbon Overlay                               #
+#                          Created by Sylvan Knight                          #
+##############################################################################
+
+overlays:
+  IMDb-Lowest-Rated:
+    imdb_chart: lowest_rated
+    overlay:
+      name: imdb-bottom
+      horizontal_offset: 0
+      horizontal_align: right
+      vertical_offset: 0
+      vertical_align: bottom
+      weight: 40
